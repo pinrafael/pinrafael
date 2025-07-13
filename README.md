@@ -1,5 +1,5 @@
 <h3 align="center">Fronend Developer from Cambodia</h3>
-
+<p align="center">Hi i'm Pin from cambodia . a software engineer and a freelance web designer and a open source developer</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinrafael&label=Profile%20views&color=0e75b6&style=flat" alt="pinrafael" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinrafael" alt="pinrafael" /></a> </p>
