@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Python trading journal](https://github.com/pinrafael/trading_journal_python.git)
 
-- 🌱 I’m currently learning **Rust and Data analysis**
+- 🌱 I’m currently learning **Rust and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pinrafael](https://github.com/pinrafael)
 
