@@ -27,12 +27,7 @@ Whether it's designing a backend service, writing clean API integrations, buildi
 I usually use the Neovim as my main code editor 
 #
 ## 📊 Stats
-
-![X86's GitHub stats](https://github-readme-stats.vercel.app/api?username=x86finn&show_icons=true&theme=shadow_blue)
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@ParinhaHong)
-
 <detail>
-  <summary><h3>My Coding journey</h3></summary>
+<summary><h3>My Coding journey</h3></summary>
   I started coding in 2017 and i learn html and css then i start move into javascript and c++ and python in the same time then i have a burn out but after 4 weeks but i keep coding and now im a software engineer and a open source developer
 
