@@ -1,22 +1,38 @@
-<h1 align="center">Hi 👋, I'm Pin</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h1 color="blue">⭐ Hello , My name is Finn</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinrafael&label=Profile%20views&color=0e75b6&style=flat" alt="pinrafael" /> </p>
+ ``Open source developer / UxUi designer / Freelancer Developer`` 
 
-- 🔭 I’m currently working on [Python trading journal](https://github.com/pinrafael/trading_journal_python.git)
+ I'm a Software Engineer, Freelancer, and Penetration Tool Developer passionate about building fast, efficient, and secure systems. With a strong foundation in C++, Python, and low-level system development, I specialize in creating tools for ethical hacking, cybersecurity testing, and performance-critical applications.
+Whether it's designing a backend service, writing clean API integrations, building developer-focused utilities, or crafting penetration testing tools, I focus on precision, minimalism, and raw performance. I'm currently open to freelance projects that require deep technical understanding and creative problem-solving.
 
-- 🌱 I’m currently learning **Rust and Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pinrafael](https://github.com/pinrafael)
+## 🧰 Languages and Tools 
 
-- 📫 How to reach me **pinrafael.ua@gmail.com**
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/na_pins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="na_pins" height="30" width="40" /></a>
-</p>
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I usually use the Neovim as my main code editor 
+#
+## 📊 Stats
 
-you can contact to me throught discord 
+![X86's GitHub stats](https://github-readme-stats.vercel.app/api?username=x86finn&show_icons=true&theme=shadow_blue)
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@ParinhaHong)
+
+<detail>
+  <summary><h3>My Coding journey</h3></summary>
+  I started coding in 2017 and i learn html and css then i start move into javascript and c++ and python in the same time then i have a burn out but after 4 weeks but i keep coding and now im a software engineer and a open source developer
+
