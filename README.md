@@ -1,4 +1,4 @@
-<h1 color="blue">⭐ Hello , My name is Pinn</h1>
+<h1 color="blue">⭐ Hello , My name is Pin</h1>
 
  ``Open source developer / UxUi designer / Freelancer Developer`` 
 
