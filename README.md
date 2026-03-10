@@ -1,3 +1,4 @@
+<img src="FINNRO.png"></img>
 <h1 color="blue">⭐ Hello , My name is Finn</h1>
 
  ``Open source developer / UxUi designer / Freelancer Developer`` 
