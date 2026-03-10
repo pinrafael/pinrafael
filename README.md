@@ -25,7 +25,7 @@ Whether it's designing a backend service, writing clean API integrations, buildi
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 <br />
 
-I usually use the Neovim as my main code editor 
+I usually use the <a href="https://github.com/neovim/neovim">Neovim</a> as my main code editor and <a href"https://geminicli.com/">Gemini Cli</a>
 #
 ## 📊 Stats
 <detail>
